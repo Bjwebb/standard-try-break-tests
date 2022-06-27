@@ -2207,7 +2207,6 @@
           "codelist": "currency.csv",
           "openCodelist": false,
           "enum": [
-            "ADP",
             "AED",
             "AFA",
             "AFN",
